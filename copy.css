@@ -1,0 +1,32 @@
+.my-recipies{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+}
+
+.third-section{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+}
+.third-width{
+    margin: 80px;
+    padding-left: 30px;
+    border-radius: 20px;
+    border: 20px;
+    box-shadow: 10px 5px 5px black;
+    width: 30%;
+    height: 65vh;
+    
+    text-align: center;
+}
+.third-width img{
+    width: 80%;
+    border-radius: 5px;
+}
+
+.third-width h1{
+    font-size: 30px;
+    color: black;
+}
